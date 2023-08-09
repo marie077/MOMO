@@ -9,4 +9,8 @@ Controls
 - 'j' key = B string
 - 'k' key = E high string
 
-Perfect for tuning, messing around with open strings :))
+
+- Press 'q' to turn off guitar notes
+- Press 'w' to turn on guitar notes again
+
+Perfect for tuning, messing around with open strings and playing simple guitar hero :))
